@@ -60,6 +60,9 @@ h2{
 #icon-heart:active{
     color:red;
 }
+#icon-bookmark:active{
+    color:violet;
+}
 
 .text-publication{
     margin:15px;
