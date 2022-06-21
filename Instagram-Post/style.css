@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header-publication{
+    display: flex;
+}
+.text-header{
+    margin:15px 0;
+}
+h2{
+    font-size: 20px;
+}
+
+#icon-html{
+    margin: 15px  15px;
+    padding-top: 5px;
+    width: 35px;
+    height: 35px;
+}
+#icon-menu{
+    margin-left: auto;
+    margin-right: 15px;
+}
+.publication{
+    background-color: white;
+    width: 600px;
+}
+.icons{
+    width: 30px;
+    height: 30px;
+    margin:15px 0;
+}
+.icons-publication{
+    display: flex;
+    gap:5px;
+}
+#icon-bookmark{
+    margin-left: auto;
+    margin-right: 15px;
+}
+#icon-heart{
+    margin-left: 15px;
+}
+.text-publication{
+    margin:15px;
+    font-size: 20px;
+}
+.like{
+    margin:10px 0;
+}
