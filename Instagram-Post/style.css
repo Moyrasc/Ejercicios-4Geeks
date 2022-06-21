@@ -57,6 +57,9 @@ h2{
 #icon-heart{
     margin-left: 15px;
 }
+#icon-heart:active{
+    color:red;
+}
 
 .text-publication{
     margin:15px;
