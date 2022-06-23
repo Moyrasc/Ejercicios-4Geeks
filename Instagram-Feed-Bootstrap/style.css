@@ -20,7 +20,7 @@ body {
 
 .portafolio-grid-item img {
     max-height: 600px;
-    width: 400;
+    width: 600px;
     object-fit: cover;
     object-position: top center;
 }
