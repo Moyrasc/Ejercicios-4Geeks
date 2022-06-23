@@ -19,10 +19,10 @@ body {
 }
 
 .portafolio-grid-item img {
-    max-height: 600px;
-    width: 600px;
-    object-fit: cover;
-    object-position: top center;
+    max-height: 500px;
+    width: 500px;
+    object-fit:cover;
+    object-position:top center;
 }
 
 .portafolio-grid-item img:hover {
